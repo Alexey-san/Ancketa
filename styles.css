@@ -127,14 +127,6 @@ form h2, form h3 {
   height: 30px;
   font-size: 18px;
   }
-.submit{
-    background-color: #4CAF50;
-    width: 150px;
-    height: 30px;
-    border-radius: 10%;
-    border-color: #4CAF50;
-    font-style: white;
-}
 .poruch {
     display: flex;
     align-items: center;
@@ -185,4 +177,20 @@ select {
 button h4 {
     color: white;
     margin-top: 5px;
+}
+.submit{
+    background-color: #4CAF50;
+    width: 150px;
+    height: 30px;
+    border-radius: 10%;
+    border-color: #4CAF50;
+    font-style: white;
+}
+.submit:hover{
+    background-color: #4CAF50;
+    width: 150px;
+    height: 30px;
+    border-radius: 10%;
+    border-color: #00FF7F;
+    font-style: white;
 }
